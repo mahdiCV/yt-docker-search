@@ -27,7 +27,7 @@ def getVideoRecord(response: requests.models.Response) -> list:
 
 channel_id = 'UCdngmbVKX1Tgre699-XLlUA'
 url = 'https://www.googleapis.com/youtube/v3/search'
-myApi_key = "AIzaSyCPvibhjK8Beja2CeSlW6Q7RwndhLcDZwU"
+myApi_key = "" # Insert your personal Apikey from youtube api
 page_token = None
 video_record_list = []
 
