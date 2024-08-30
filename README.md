@@ -1,5 +1,5 @@
 # A YouTube search approach in a specific category
-In this repository, as I started to learn Docker, I tried to build a search method in TechWorld with Nana's YouTube channel. 
+In this repository, as I started to learn Docker, I tried to build a search method in [TechWorld with Nana's YouTube channel.](https://www.youtube.com/@TechWorldwithNana) 
 ## Result
 ![Result:](img/result.png) 
 
