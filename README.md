@@ -27,7 +27,10 @@ docker pull bravomahdi/yt-docker-search:latest
 docker run -d -p 80:80 yt-docker-search
 ```
 
-### 3. Docker Hub Repository
+#### Docker Hub Repository
 You can find the Docker image for this project on Docker Hub:
 
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repository-blue)](https://hub.docker.com/r/bravomahdi/yt-docker-search/tags)
+
+### 3. Run test-Api file
+Finally, after running the docker image, you can run test-Api.ipynb to test the model. 
